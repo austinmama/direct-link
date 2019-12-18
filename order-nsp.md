@@ -29,12 +29,14 @@ subcollection: direct-link
 # Ordering Direct Link Dedicated Classic
 {: #how-to-order-ibm-cloud-direct-link-dedicated}
 
-To order IBM Cloud Direct Link Dedicated Classic, perform one of the following procedures, depending on your requirements. The colocation or Network Service Provider (NSP) does not need to be an IBM Cloud Direct Link Partner to connect you to a Direct Link Dedicated service. When you're ready to place your order, follow the step-by-step instructions.
+To order IBM Cloud Direct Link Dedicated Classic, perform one of the following procedures, depending on your requirements. The colocation or Network Service Provider (NSP) does not need to be an IBM Cloud Direct Link Partner to connect you to a Direct Link Dedicated service. When you're ready to place your order, follow the step-by-step instructions. 
 {:shortdesc}
 
 To determine which Direct Link solution is best for your networking environment, see
 [How do I know which type of IBM Cloud Direct Link I need?](/docs/direct-link?topic=direct-link-get-started-with-ibm-cloud-direct-link#how-do-i-know-which-type-of-ibm-cloud-direct-link-i-need-)
 {: tip}
+
+You can choose from the following two options.
 
 ## Option 1: Colocated in an IBM Cloud PoP or data center
 {: #colocated-in-ibm-cloud-pop}
