@@ -118,4 +118,4 @@ This table shows which {{site.data.keyword.cloud_notm}} data centers are able to
 ## Pricing
 {: #dedicated-pricing}
 
-For more information, refer to the **Dedicated Hosting on Classic** tab in the [pricing table](/docs/direct-link?topic=direct-link-pricing-for-ibm-cloud-direct-link). Also refer to [pricing considerations](/docs/direct-link?topic=direct-link-pricing-for-ibm-cloud-direct-link#dldh-specs).  
+For more information, refer to the **Dedicated Hosting on Classic** tab in the [pricing table](/docs/direct-link?topic=direct-link-pricing-for-ibm-cloud-direct-link). Also refer to [Dedicated Hosting on Classic pricing considerations](/docs/direct-link?topic=direct-link-pricing-for-ibm-cloud-direct-link#dldh-specs).  
