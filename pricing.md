@@ -101,7 +101,7 @@ Select a tab in the table to view pricing:
 ## Dedicated Hosting on Classic pricing considerations
 {: #dldh-specs}
 
-Review the following planning considerations when ordering Dedicated Hosting on Classic:
+Review the following pricing considerations when ordering Dedicated Hosting on Classic:
 {: #shortdesc}
 
 - Direct Link Dedicated Hosting on Classic requests and pricing are handled on a transactional basis to account for regional differences in vendor availability and pricing.
