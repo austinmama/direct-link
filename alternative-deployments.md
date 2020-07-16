@@ -41,7 +41,7 @@ Many customers choose to create redundant deployments by setting up an additiona
 
 ![Diverse Exchange](/images/Direct-Link-Exchange-Diverse.png "Diverse Exchange"){: caption="Figure 1. A diverse IBM Cloud Direct Link Exchange deployment" caption-side="bottom"}
 
-IBM Cloud Direct Link also makes it easy to establish diverse Connect deployments, as shown in the following figure.
+IBM Cloud Direct Link also makes it easy to establish diverse Connect deployments, as shown in Figure 2.
 
 ![Diverse Connect](/images/Direct-Link-Connect-Diverse.png "Diverse Connect"){: caption="Figure 2. A redundant and diverse IBM Cloud Direct Link Connect on Classic deployment" caption-side="bottom"}
 
@@ -50,8 +50,8 @@ IBM Cloud Direct Link also makes it easy to establish diverse Connect deployment
 
 Some customers want to use Direct Link Connect on Classic along with other cloud providers, such as AWS, Azure, or Google Cloud. The following schematic shows an overview of how to establish this type of connection with a Telco (NSP).
 
-![Other Clouds Connect](/images/Direct-Link-Connect-other-clouds.png "Other Clouds Connect"){: caption="Figure 4. Using Direct Link Connect in conjunction with other clouds" caption-side="bottom"}
+![Other Clouds Connect](/images/Direct-Link-Connect-other-clouds.png "Other Clouds Connect"){: caption="Figure 3. Using Direct Link Connect in conjunction with other clouds" caption-side="bottom"}
 
 Some customers want to use Direct Link Exchange on Classic along with other cloud providers, such as AWS, Azure, or Google Cloud. The following schematic shows an overview of how to establish this type of connection with a Cloud Exchange provider.
 
-![Other Clouds Exchange](/images/Direct-Link-Exchange-Other-Clouds.png "Other Clouds Exchange"){: caption="Figure 3. Using IBM Cloud Direct Link Exchange in conjunction with other clouds" caption-side="bottom"}
+![Other Clouds Exchange](/images/Direct-Link-Exchange-Other-Clouds.png "Other Clouds Exchange"){: caption="Figure 4. Using IBM Cloud Direct Link Exchange in conjunction with other clouds" caption-side="bottom"}
