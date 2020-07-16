@@ -17,8 +17,8 @@ Direct Link on Classic
 
     {: .topicgroup}
     Deployment considerations
+        diversity-models.md        
         alternative-deployments.md
-        diversity-models.md
         layer-2-layer-3.md
         connect-details.md        
 
